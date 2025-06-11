@@ -13,3 +13,13 @@
  git status
  git restore testing.py
  git status
+
+ history
+ git add git_commands.txt
+ git status
+ git commit -m "Added git commands"
+ git status
+ git remote add origin https://github.com/Girishingit/GITHUB-FOR-DEVOPS-WORKSHOP.… 
+ git remote -v
+ git status
+ git push origin master
