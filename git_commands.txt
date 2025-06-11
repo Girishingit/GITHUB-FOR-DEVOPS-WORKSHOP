@@ -1,0 +1,15 @@
+ git status
+ git add testing.py
+ git add tesing.py
+ git status
+ git rm --cached tesing.py
+ git status
+ git status
+ git add .
+ git status
+ git commit -m "Added testing files"
+ git status
+ rm testing.py
+ git status
+ git restore testing.py
+ git status
