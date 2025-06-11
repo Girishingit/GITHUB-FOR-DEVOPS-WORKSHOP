@@ -23,3 +23,5 @@
  git remote -v
  git status
  git push origin master
+
+This is some new changes
